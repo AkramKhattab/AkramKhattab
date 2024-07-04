@@ -32,10 +32,6 @@
 </p>
 
 <p align="center">
-I'm currently on a journey to find my place in the tech market and am constantly working on new projects to expand my knowledge and experience.
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
   <a href="https://github.com/AkramKhattab?tab=repositories">Check out my repositories to see what I've been up to!</a>
 </p>
