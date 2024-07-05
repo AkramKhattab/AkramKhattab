@@ -58,4 +58,12 @@
   <a href="https://www.linkedin.com/in/akram-khattab/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AkramKhattab/count.svg?"  />
+</div>
+
 </p>
+
+
+
